@@ -8,3 +8,7 @@ import "./src/style.css"
 
 // Highlighting for code blocks
 import "prismjs/themes/prism.css"
+
+// custom css
+import "./src/templates/custom-css/layout.css"
+import "antd/dist/antd.css"
